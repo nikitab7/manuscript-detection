@@ -1,1 +1,1 @@
-Paragraph Detection in Latin Manuscripts
+Latin Manuscript Paragraph Detection 
