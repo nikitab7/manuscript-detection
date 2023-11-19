@@ -8,7 +8,7 @@ Before running the code, ensure you have the required libraries installed. The c
 ## Data Visualization
 The code includes a visualization step where it randomly selects two examples from the dataset and displays them using the Detectron2 Visualizer. This allows users to inspect how the model performs on sample images.
 
-![Screen Shot 2022-04-19 at 10 26 11 PM](https://github.com/nikitab7/manuscript-detection/assets/106767139/dd7d3170-6700-47c0-966b-b0e8dd7e7b2c)
+![Amphelisa-06v (1)](https://github.com/nikitab7/manuscript-detection/assets/106767139/4aaaeba5-bbcd-43e3-917c-42dea385e949)
 
 
 ## Model Configuration
