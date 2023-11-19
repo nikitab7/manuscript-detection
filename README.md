@@ -2,7 +2,6 @@
 
 This project focuses on detecting paragraphs in Latin manuscripts using the Detectron2 framework. The goal is to train a Faster R-CNN model on a dataset of Latin manuscript images to accurately identify and delineate paragraphs.
 
-## Results after Running Code:
 ![Amphelisa-06v (1)](https://github.com/nikitab7/manuscript-detection/assets/106767139/4aaaeba5-bbcd-43e3-917c-42dea385e949)
 
 
