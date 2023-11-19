@@ -8,5 +8,8 @@ Before running the code, ensure you have the required libraries installed. The c
 ## Data Visualization
 The code includes a visualization step where it randomly selects two examples from the dataset and displays them using the Detectron2 Visualizer. This allows users to inspect how the model performs on sample images.
 
+![Screen Shot 2022-04-19 at 10 26 11 PM](https://github.com/nikitab7/manuscript-detection/assets/106767139/dd7d3170-6700-47c0-966b-b0e8dd7e7b2c)
+
+
 ## Model Configuration
 The Faster R-CNN model is configured using the COCO-Detection/faster_rcnn_R_50_DC5_1x.yaml configuration file from the Detectron2 model zoo. The training parameters, such as batch size, learning rate, and the number of iterations, are set to reasonable values for this specific task.
